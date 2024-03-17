@@ -1,0 +1,4 @@
+gradio==3.0.20
+pymongo==4.1.1
+psycopg2-binary==2.9.3
+redis==4.3.4
