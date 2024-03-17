@@ -4,6 +4,7 @@ import psycopg2
 from redis import Redis
 import logging
 
+
 # Setup logging configuration
 logging.basicConfig(filename='db_connection_tester.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
